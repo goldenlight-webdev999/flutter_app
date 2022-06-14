@@ -1,0 +1,9 @@
+Search feature is gone on customer side. I remember fixing this issue, so we'll have to go back and find out what happened to it. This may affect some of the results
+
+Customer can see timeslots for vendors
+Customer cannot book appointment
+Customer cannot rate vendors (I could not find a place to do this, I assume this appears once the customer has booked a service)
+Customer cannot send an email to suport (Could not find it)
+Customers cannot chat with vendors (I could not get this to work, but Saum said that it was working previously, that we just need to "reset the server")
+Social Media links don't lead to proper accounts (No way to look at these, but I'm assuming that they do work if you can get to them)
+

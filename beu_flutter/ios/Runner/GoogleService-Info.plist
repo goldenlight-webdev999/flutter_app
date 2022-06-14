@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>539236099126-93b37vm6aj3b3ku59ej5lscbdast3705.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.539236099126-93b37vm6aj3b3ku59ej5lscbdast3705</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCfCMPeH0eo9tWdrdfmhaedHrRWFx34Dy0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>539236099126</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.seg.beu</string>
+	<key>PROJECT_ID</key>
+	<string>eco-muse-277302</string>
+	<key>STORAGE_BUCKET</key>
+	<string>eco-muse-277302.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:539236099126:ios:b0e51de8d6bfbe38c5a497</string>
+	<key>DATABASE_URL</key>
+	<string>https://eco-muse-277302.firebaseio.com</string>
+</dict>
+</plist>
